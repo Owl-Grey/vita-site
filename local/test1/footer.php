@@ -1,7 +1,3 @@
-
-
-
-
 	<footer id="footer" class="footer w-100" style=" background-color: deepskyblue; color: white;">
       <div class="container">
         <div class="row">
