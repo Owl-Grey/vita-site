@@ -18,7 +18,7 @@ a:active{color: black;}
 .footer {
 
 
-margin-top:100%;
+margin-top:10px;
 }
 
 </style>
